@@ -1,7 +1,7 @@
 Package: AHLRBaseDbs
 Type: Package
 Title: LRBaseDbs for AnnotationHub
-Version: 0.99.3
+Version: 1.0.0
 Encoding: UTF-8
 Authors@R: c(person("Koki", "Tsuyuzaki", role = c("aut", "cre"),
                 email = "k.t.the-answer@hotmail.co.jp"),
@@ -19,4 +19,4 @@ Description: Supplies AnnotationHub with `LRbaseDb` Ligand-Receptor annotation d
 VignetteBuilder: knitr
 License: Artistic-2.0
 LazyLoad: yes
-biocViews: AnnotationData, FunctionalAnnotation, MeSHDb, AnnotationHub
+biocViews: AnnotationData, FunctionalAnnotation, LRBaseDb, AnnotationHub
