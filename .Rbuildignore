@@ -1,5 +1,10 @@
-.github
-.git
-Dockerfile
-README.md
-LICENSE
+^\.github$
+^\.git$
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.md$
+^cran-comments\.md$
+^CRAN-SUBMISSION$
+^.*\.Rhistory$
+^Dockerfile$
